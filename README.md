@@ -1,2 +1,2 @@
 # Arbeidskrav_2
-Besvarelsen på Arbeidskrav 2 fra Ellen Johanne Eidem
+Dette er Read Me-filen til besvarelsen på Arbeidskrav 2 fra Ellen Johanne Eidem
